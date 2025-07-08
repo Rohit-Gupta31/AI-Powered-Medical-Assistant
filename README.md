@@ -1,4 +1,4 @@
-# AI-Powered-Medical-Assistant
+# AI Powered Medical Assistant
 Welcome to the AI-powered medical assistant that predicts a patient's likely disease based on symptoms and recommends relevant care, including:
 
  - Medication suggestions
