@@ -19,16 +19,15 @@ Built using machine learning and Streamlit, it provides instant feedback to user
 [Demo:]()
 
 ## Features:
- - Symptom-based disease prediction
+ - Symptom-based disease prediction.
 
- - Preprocessed training data with 133 symptoms and disease labels
+ - Preprocessed training data with 133 symptoms and disease labels.
 
- - SVC model trained and serialized with pickle
+ - SVC model trained and serialized with pickle.
 
- - five-section recommendations (precautions, diet, workout, description, medicine)
+ - five-section recommendations (precautions, diet, workout, description, medicine).
 
- Enhanced Streamlit UI (button-based interaction)
 ## Optional Improvements:
-- Add more training data to improve accuracy
+- Add more training data to improve accuracy.
 
-- Integrate OpenAI GPT for conversational interface
+- Integrate OpenAI GPT for conversational interface.
